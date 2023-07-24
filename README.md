@@ -1,2 +1,2 @@
 # Python-project-for-data-science
-This project consists of 3 files 
+This repo consists of python project for data science
